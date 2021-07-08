@@ -1,0 +1,38 @@
+<html>
+<head>
+</head>
+
+<body>
+<body background="../image/images/18a96f4d5156a891fb6ca497b79cbdf5.jpg">
+
+<table border="1">
+<h2><font size="32"><a><b>My Biodata<a><b></font></h2>
+  <tr>
+    <td>NAME:</td>
+    <td>NURUL AISYAH BINTI SOLEH</td>
+  </tr>
+  <tr>
+    <td>BIRTH DATE:</td>
+    <td>2<sup>nd</sup> APRIL 2001</td>
+  </tr>
+<tr>
+    <td>HOBBIES:</td>
+    <td>Vacation, Cooking, Gardening, Shopping and Eat</td>
+  </tr>
+<tr>
+    <td>FAVORITE FOOD:</td>
+    <td>FRIED CHICKEN, ICE-CREAM & STRAWBERRY</td>
+  </tr>
+<tr>
+    <td>FAVORITE DRINKS:</td>
+    <td>MILO</td>
+
+<br>
+<big>Enjoy my Hobbies video below:)</big>
+<br>
+
+<embed src="..video/images/About Myself.mp4" autostart="false" width="50%" height="60%">
+
+</body>
+
+</html>

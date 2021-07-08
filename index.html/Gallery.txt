@@ -1,0 +1,24 @@
+<html>
+<head>
+</head>
+
+<body>
+<body background= "../image/images/18a96f4d5156a891fb6ca497b79cbdf5.jpg">
+
+<font size="20" face="impact" color="black"><marquee behavior="alternate">AISYAH GALLERY (MEMORY)</marquee></font>
+<br>
+<br>
+
+<face="impact"><marquee behavior="alternate"><img src="../image/images/My Family (1).png"allign="right"width="36%"height="50%"align="center"><img src="../image/images/Zarif.png"allign="right"width="25%"height="50%"align="center">
+
+<img src="../image/images/Me.png"allign="right"width="25%"height="50%"align="center">
+
+<img src="../image/images/Ikmal.png"allign="right"width="25%"height="50%"align="center">
+
+<img src="../image/images/along.png"allign="right"width="25%"height="50%"align="center"></marquee>
+
+<face="impact"><marquee behavior="alternate"><img src="../image/images/putam 2.jpg"allign="right"width="20%"height="50%"align="center">
+
+<img src="../image/images/Kakashi 2.jpg"allign="right"width="25%"height="50%"align="center">
+
+<img src="../image/images/Levi 4.jpg"allign="right"width="20%"height="50%"align="center"></marquee>
